@@ -45,8 +45,8 @@ New SSE connection
 }
 ```
 
-```Claude desktop
+## Claude desktop
 ![cd.png](cd.png)
-```
+
 
 
